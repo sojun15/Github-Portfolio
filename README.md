@@ -38,5 +38,5 @@ Educational qualification:
 Social Media :<br>
 <u><a href="https://www.facebook.com/profile.php?id=100007066908445"><b>Facebook</b></a></u><br>
 <u><a href="https://t.me/+8801794046782"><b>Telegram</b></a></u><br>
-<u><a href="[www.linkedin.com/in/sojun-chandra-3b5677266](https://www.linkedin.com/in/sojun-chandra-3b5677266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><b>Linkedin</b></a></u>
+<u><a href="https://www.linkedin.com/in/sojun-chandra-3b5677266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><b>Linkedin</b></a></u>
 
