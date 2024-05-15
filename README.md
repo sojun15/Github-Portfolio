@@ -1,6 +1,6 @@
 # Portfolio of Sojun Chandra
 
-![picture](sojun.jpg)
+![picture](scs.jpg)
 <br>
 About:<br>
 I am a undergraduate Computer Science and Engineering student at Khulna University.
