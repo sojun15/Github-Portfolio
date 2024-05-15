@@ -3,8 +3,8 @@
 ![picture](scs.jpg)
 <br>
 About:<br>
-I am a undergraduate Computer Science and Engineering student at Khulna University.
-I am continuously learning programming knowledge.In my free time i also solve codeforces problems.
+I am an undergraduate student of Computer Science and Engineering at Khulna University.
+I am continuously learning programming knowledge.I like both software engineering and web development.
 <br><br>
 Running Course:<br>
 <li> Full Stack Web-development
