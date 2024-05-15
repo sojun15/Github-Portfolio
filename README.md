@@ -3,7 +3,7 @@
 ![picture](scs.jpg)
 <br>
 About:<br>
-I am an undergraduate student of Computer Science and Engineering at Khulna University.
+I am an undergraduate student of Computer Science and Engineering Discipline at Khulna University.
 I am continuously learning programming knowledge.I like both software engineering and web development.
 <br><br>
 Running Course:<br>
@@ -19,10 +19,13 @@ Skills:
 
 <br><br>
 Projects Done(Java):
-<li> SnakeGame link: https://github.com/sojun15/Snakegame
-<li> Simple Calculator link: https://github.com/sojun15/Simple-calculator
-<li> Age Calculator link: https://github.com/sojun15/Daily-activity/blob/main/AgeCalculation.java
-<li> Awareness of Orchid Cultivation link: https://github.com/sojun15/Micro_Processor_Project-
+<li> <u><a href="https://github.com/sojun15/Snakegame"><b>SnakeGame</b></a></u>
+
+<li> <u><a href="https://github.com/sojun15/Simple-calculator"><b>Simple Calculator</b></a></u>
+
+<li> <u><a href="https://github.com/sojun15/Daily-activity/blob/main/AgeCalculation.java"><b>Age Calculator</b></a></u>
+
+<li> <u><a href="https://github.com/sojun15/Micro_Processor_Project-"><b>Awareness of Orchid Cultivation</b></a></u> 
 
 <br><br> 
 Educational qualification:
@@ -32,5 +35,8 @@ Educational qualification:
 
 
 <br><br>
-Facebook: <br>
-https://www.facebook.com/profile.php?id=100007066908445
+Social Media :<br>
+<u><a href="https://www.facebook.com/profile.php?id=100007066908445"><b>Facebook</b></a></u><br>
+<u><a href="https://t.me/+8801794046782"><b>Telegram</b></a></u><br>
+<u><a href="[www.linkedin.com/in/sojun-chandra-3b5677266](https://www.linkedin.com/in/sojun-chandra-3b5677266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><b>Linkedin</b></a></u>
+
