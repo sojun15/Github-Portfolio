@@ -16,6 +16,7 @@ Skills:
 <li> C++ and C
 <li> Basic HTML and CSS
 <li> Git and GitHub
+<li> HTML
 
 <br><br>
 Projects Done(Java):
