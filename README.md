@@ -1,4 +1,4 @@
-# Portfolio of Sojun Chandra
+# Sojun Chandra
 
 ![picture](scs.jpg)
 <br>
