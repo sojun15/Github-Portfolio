@@ -16,7 +16,7 @@ Skills:
 <li> C++ and C
 <li> Basic HTML and CSS
 <li> Git and GitHub
-
+<li> CSS
 <br><br>
 Projects Done(Java):
 <li> <u><a href="https://github.com/sojun15/Snakegame"><b>SnakeGame</b></a></u>
